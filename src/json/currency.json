@@ -1,0 +1,65 @@
+[
+    {
+        "label": "USD",
+        "value": "$",
+        "currencyCode": "usd",
+        "countryName": "USA",
+        "flag": "https://flagcdn.com/us.svg"
+    },
+    {
+        "label": "EUR",
+        "value": "€",
+        "currencyCode": "eur",
+        "countryName": "GERMANY",
+        "flag": "https://flagcdn.com/eu.svg"
+    },
+    {
+        "label": "GBP",
+        "value": "£",
+        "currencyCode": "gbp",
+        "countryName": "UK",
+        "flag": "https://flagcdn.com/gb.svg"
+    },
+    {
+        "label": "CAD",
+        "value": "CA$",
+        "currencyCode": "cad",
+        "countryName": "CANADA",
+        "flag": "https://flagcdn.com/ca.svg"
+    },
+    {
+        "label": "AUD",
+        "value": "A$",
+        "currencyCode": "aud",
+        "countryName": "AUSTRALIA",
+        "flag": "https://flagcdn.com/au.svg"
+    },
+    {
+        "label": "INR",
+        "value": "₹",
+        "currencyCode": "inr",
+        "countryName": "INDIA",
+        "flag": "https://flagcdn.com/in.svg"
+    },
+    {
+        "label": "AFN",
+        "value": "؋",
+        "currencyCode": "afn",
+        "countryName": "AFGHANISTAN",
+        "flag": "https://flagcdn.com/af.svg"
+    },
+    {
+        "label": "PKR",
+        "value": "₨",
+        "currencyCode": "pkr",
+        "countryName": "PAKISTAN",
+        "flag": "https://flagcdn.com/pk.svg"
+    },
+    {
+        "label": "AED",
+        "value": "د.إ",
+        "currencyCode": "uae",
+        "countryName" : "UAE",
+        "flag": "https://flagcdn.com/ae.svg"
+    }
+]

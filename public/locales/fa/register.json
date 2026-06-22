@@ -1,0 +1,20 @@
+{
+  "registeration form": "فورم ثبت وراجستر",
+  "email": "ایمیل/آدرس الکترونیکی",
+  "fullname": "نام کامل",
+  "phone number": "شماره تلیفون",
+  "password": "رمز کاربری",
+  "gender": "جنسیت",
+  "dob": "تاریخ تولد",
+  "address": "آدرس",
+  "register now": "حالا راجستر کنید",
+  "verify now": "حالا تائید کنید",
+  "or": "یا",
+  "login now": "حالا وارد شوید",
+  "registration complete, now you can login.": "ثبت نام تکمیل گردید، حالا میتوانید وارد شوید",
+  "wrong otp, please enter correct otp.": "او تی پی اشتباه است، لطفا او تی پی درست را وارد کنید",
+  "unable to register, please try again later.": "ثبت نام انجام نشد، لطفا بعدا دوباره امتحان کنید.",
+  "already registered, please try to login.": "قبلاً ثبت نام شده اید، لطفا وارد شوید",
+  "already have an account ?": "ازقبل حساب دارید؟",
+  "Country": "کشور"
+}

@@ -1,0 +1,20 @@
+{
+  "registeration form": "د راجستر فورمه",
+  "email": "برېښنالیک/ایمیل آدرس",
+  "fullname": "بشپړ نوم",
+  "phone number": "د تلیفون شمېره",
+  "password": "رمز/پټ نوم",
+  "gender": "جنس",
+  "dob": "د زیږون نیټه",
+  "address": "پته",
+  "register now": "اوس راجستر شئ",
+  "verify now": "اوس تصدیق کړئ",
+  "or": "یا",
+  "login now": "اوس ننوځئ",
+  "registration complete, now you can login.": "راجستریشن بشپړ شو، اوس کولی شئ ننوځئ",
+  "wrong otp, please enter correct otp.": "ناسم OTP، مهرباني وکړئ سم OTP ولیکئ",
+  "unable to register, please try again later.": "راجستر کې ستونزه ده، مهرباني وکړئ وروسته بیا هڅه وکړئ",
+  "already registered, please try to login.": "تاسو له مخکې راجستر شوي یاست، مهرباني وکړئ ننوتل وکړئ",
+  "already have an account ?": "له مخکې حساب لرئ؟",
+  "Country":"هیواد"
+}

@@ -213,9 +213,27 @@ Fork the repository, create a feature branch, and submit a Pull Request.
 
 ---
 
-## 📄 License
+Copyright © 2026 Zabeehullah Yadgar
 
-This project is licensed under the MIT License.
+All Rights Reserved.
+
+This project is made publicly available for educational and portfolio purposes.
+
+You may:
+
+* View the source code.
+* Learn from the implementation and project structure.
+* Reference or reuse limited portions of the code for educational purposes with appropriate attribution.
+
+You may NOT:
+
+* Copy or redistribute the entire project or any substantial portion of it.
+* Publish this project under your own name.
+* Sell or commercially distribute this project.
+* Create a competing product based on this project's source code without prior written permission from the copyright holder.
+
+This project is provided "as is" without warranty of any kind.
+
 
 ---
 
